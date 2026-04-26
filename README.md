@@ -1,13 +1,13 @@
-# Cardiovascular Disease Prediction - Mid Project by passant fouad
+# Cardiovascular Disease Analysis - Mid Project
 
 ## 📌 Project Overview
-This project focuses on analyzing cardiovascular disease data using Exploratory Data Analysis (EDA) techniques. The goal is to identify patterns, relationships, and risk factors associated with heart disease.
+This project focuses on analyzing cardiovascular disease data using Exploratory Data Analysis (EDA). The goal is to discover patterns and identify key risk factors that contribute to heart disease.
 
 ## 🎯 Objectives
-- Understand the dataset structure
-- Identify key factors affecting cardiovascular disease
-- Perform data cleaning and preprocessing
-- Visualize trends and correlations
+- Analyze patient medical data
+- Identify correlations between features and disease presence
+- Detect important risk factors
+- Visualize patterns in the dataset
 
 ## 🛠 Tools & Technologies
 - Python
@@ -18,10 +18,31 @@ This project focuses on analyzing cardiovascular disease data using Exploratory 
 - Jupyter Notebook
 
 ## 📊 Dataset Description
-The dataset contains medical attributes such as:
+The dataset includes medical attributes such as:
 - Age
 - Gender
 - Blood pressure
+- Cholesterol
+- Heart rate
+- Other health indicators
+
+## 🔍 Analysis Steps
+1. Data cleaning and preprocessing  
+2. Handling missing values  
+3. Exploratory Data Analysis (EDA)  
+4. Data visualization (histograms, heatmaps, boxplots)  
+5. Correlation analysis  
+
+## 📈 Key Insights
+- Age shows a strong relationship with cardiovascular disease  
+- High cholesterol increases disease risk  
+- Blood pressure is a major contributing factor  
+- Multiple features together impact prediction accuracy  
+
+## ▶️ How to Run the Project
+1. Clone the repository:
+```bash
+git clone https://github.com/passantfouad/cardiovascular-midproject      
 - Cholesterol levels
 - Heart rate
 - Other health indicators
