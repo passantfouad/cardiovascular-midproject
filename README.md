@@ -64,3 +64,7 @@ git clone https://github.com/passantfouad/cardiovascular-midproject
 2. Install required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
+
+## 🔗 Reference Repository
+This project is based on the Epsilon AI main repository:
+https://github.com/MohabAllam/Ecommerce-Australia-EDA-Project
